@@ -1,0 +1,44 @@
+{
+    "5834782322": {
+        "templates": {},
+        "known_chats": {
+            "4245000": "دردشة خاصة"
+        },
+        "broadcasting": {
+            "active": true,
+            "step": "awaiting_here",
+            "templates": [
+                {
+                    "text": "Dear Telegram support,\nI would like to report a channel that publishes misleading and harmful content. The channel regularly posts links and screenshots of accounts, groups, bots and channels that were previously suspended or blocked by Telegram, falsely claiming that it was responsible for their closure or unblocking.\nThis behavior is deceptive, misleading users, and trying to manipulate Telegram's moderation system.\nPlease review this channel promptly and take appropriate action in accordance with Telegram's policies.\nThanks for your support.\nChannel ID / username: [ 2302586114  ]\nLinks to abusive messages:\n https://t.me/c/2302586114/316\nhttps://t.me/c/2302586114/314\nhttps://t.me/c/2302586114/311\nhttps://t.me/c/2302586114/309\nhttps://t.me/c/2302586114/307\nhttps://t.me/c/2302586114/304\nhttps://t.me/c/2302586114/302"
+                }
+            ],
+            "interval": 30,
+            "groups": [
+                "4245000"
+            ],
+            "last_msg_id": [
+                2349
+            ],
+            "here_groups": [
+                "4245000"
+            ]
+        },
+        "broadcast_status": {
+            "is_broadcasting": true,
+            "broadcast_type": "groups",
+            "sleep_time": 30,
+            "template_pattern": "1",
+            "groups": [
+                "4245000"
+            ],
+            "templates": [
+                {
+                    "text": "Dear Telegram support,\nI would like to report a channel that publishes misleading and harmful content. The channel regularly posts links and screenshots of accounts, groups, bots and channels that were previously suspended or blocked by Telegram, falsely claiming that it was responsible for their closure or unblocking.\nThis behavior is deceptive, misleading users, and trying to manipulate Telegram's moderation system.\nPlease review this channel promptly and take appropriate action in accordance with Telegram's policies.\nThanks for your support.\nChannel ID / username: [ 2302586114  ]\nLinks to abusive messages:\n https://t.me/c/2302586114/316\nhttps://t.me/c/2302586114/314\nhttps://t.me/c/2302586114/311\nhttps://t.me/c/2302586114/309\nhttps://t.me/c/2302586114/307\nhttps://t.me/c/2302586114/304\nhttps://t.me/c/2302586114/302"
+                }
+            ],
+            "group_rotation": {
+                "4245000": 297
+            }
+        }
+    }
+}
